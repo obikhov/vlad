@@ -1,0 +1,153 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(.//5242225451735310918.jpg);
+    max-width: 1300px;
+}
+ul,li,ol{margin: 0;
+text-decoration: none;
+list-style: none;
+}
+h1,h2,h3{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 1600px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: center;
+    justify-items: auto;
+    align-items: center;
+    text-align: center;
+}
+.header{
+background-color: rgb(0, 0, 0);  
+  padding-top: 25px;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.logo{
+    max-width: 70px;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(253, 0, 0);
+    display: flex;
+    font-size: 60px;
+    font-weight: 400;
+ 
+}
+.logotu{
+    color: #2E2F42;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+
+.van{
+    color: blue;
+}
+.tu{
+    color: chartreuse;
+}
+.fri{
+    color: chocolate;
+}
+.fo{
+    color:blueviolet
+}
+
+.main{
+    display: flex;
+    gap: 45%;
+
+    
+    
+}
+.six{
+    color: rgb(0, 221, 255);
+}
+.seven{
+    color: #b700ff;
+}
+.eleven{
+    color: burlywood;
+}
+.faif{
+    color: darkmagenta;
+}
+.ul_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.li_header{
+    color: black;
+}
+
+.adress{
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 34px;
+    letter-spacing: 0.02em;
+    color: #b700ff;
+}
+.section{
+    background-image: url(.//5242225451735310918.jpg);
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.sectiontu{
+    background-image: url(.//depositphotos_4634746-stock-photo-red-heart-isolated-white-background.jpg);
+}
+.imjlove{
+    margin-left: 35%;
+    margin-top: 80px;
+}
+.ulsection{
+    padding-top: 20px;
+ text-align: center;
+font-size: 50px;
+font-weight: 500;
+line-height: 54px;
+letter-spacing: 0.02em;
+color: rgb(255, 255, 0);
+justify-content: center;
+align-items: center;
+
+}
+
+footer{
+    background-color: rgb(3, 7, 0);
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+.logofuter{
+    justify-content: center;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 84px;
+    letter-spacing: 0.03em;
+    margin-left: 20%;
+    color: brown;
+}
